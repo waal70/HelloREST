@@ -37,6 +37,11 @@
   		<artifactId>jaxrs-ri</artifactId>
   		<version>2.26-b02</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.json</groupId>
+  		<artifactId>json</artifactId>
+  		<version>20151123</version>
+  	</dependency>
   </dependencies>
   <packaging>war</packaging>
 </project>

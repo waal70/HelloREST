@@ -4,6 +4,6 @@ import javax.ws.rs.ApplicationPath;
 
 import org.glassfish.jersey.server.ResourceConfig;
 
-@ApplicationPath("rest")
+@ApplicationPath("/")
 public class HelloWorldApplication extends ResourceConfig {}
 
